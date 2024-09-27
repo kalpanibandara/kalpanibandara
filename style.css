@@ -1,0 +1,27 @@
+.box{
+    color: white;
+    font-size:100px;
+    text-align: center;
+    text-shadow:4 px 4px 0 rgba(0,0,0,0.1) ;
+    padding: 10px;
+}
+.box1{ background: #e81416;}
+.box2{ background: #ffa500;}
+.box3{background: #faeb36;}
+.box4{ background: #79c314;}
+.box5{ background: #487de7;}
+.box6{ background: #4b369d;}
+.box7{ background: #70369d;}
+.box8{ background: #369d96;}
+.box9{ background: #9d5236;}
+.box10{ background: #0a252d;}
+
+
+.container{
+    display: flex;
+    border: 10px solid goldenrod;
+    height: 100vh;
+    flex-direction: column;
+    
+
+}
